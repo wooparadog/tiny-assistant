@@ -1,0 +1,12 @@
+gradio
+langchain
+llama-index
+python-pptx
+torch
+PyPDF2
+transformers
+docx2txt
+EbookLib
+html2text
+Pillow
+pydub
